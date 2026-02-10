@@ -1,4 +1,5 @@
-# Introduction
+# Introduction.
+
 I am a beginner in Data Analytics, and this project is part of my learning journey in my free time.
 In this project, I explore the data job market with a focus on Data Analyst roles to better understand:
 💰 top-paying jobs, 🔥 in-demand skills, and 📈 where high demand meets high salary in data analytics.
